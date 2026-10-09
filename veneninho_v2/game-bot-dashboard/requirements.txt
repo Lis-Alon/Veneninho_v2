@@ -1,0 +1,10 @@
+pywebview
+pyautogui
+opencv-python
+pillow
+interception-python==1.13.6
+pywin32
+pygetwindow
+torch
+torchvision
+scipy
